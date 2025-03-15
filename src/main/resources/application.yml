@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: Zacta
+zetca:
+    email: demo@test.com
+    password: 123456
+    url: https://api.dev.v2.vatcare.app/api/
